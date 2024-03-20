@@ -9,6 +9,9 @@ eltabel-custom-header
 
 ## Usage
 ```js
+npm i eltabel-custom-header  --save
+
+import { CostomTable } from 'eltabel-custom-header'
 // 混入
 mixins: [CostomTable({ref: 'table' }), CostomTable({ref: 'table2'})],
 
