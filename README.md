@@ -7,6 +7,8 @@ eltabel-custom-header
 支持一个页面多个table使用
 只需要简单的混入，并给table 设置一个ref 即可实现
 
+![image](https://hiishoposs.oss-cn-shanghai.aliyuncs.com/21A8BYm603/DiagTreatFiles/98adc0e581140275c61c3a116d26cd75.jpg)
+
 ## Usage
 ```js
 npm i eltabel-custom-header  --save
