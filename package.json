@@ -1,0 +1,16 @@
+{
+  "name": "eltabel-custom-header",
+  "version": ".1.0",
+  "description": "Element UI Table Custom Headers",
+  "main": "index.js",
+  "author": "Harry-li <2542804080@qq.com> (https://www.jianshu.com/u/097bbd831fa4)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lihao0609/eltabel-custom-header"
+  },
+  "keywords": ["Element", "table", "custom header"],
+  "license": "ISC"
+}
